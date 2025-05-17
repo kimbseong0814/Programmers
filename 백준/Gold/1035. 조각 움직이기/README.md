@@ -1,4 +1,4 @@
-# 조각 움직이기 - 1035 
+# 조각 움직이기
 
 [문제 링크](https://www.acmicpc.net/problem/1035) 
 
